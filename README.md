@@ -36,3 +36,6 @@ The script performs the following tasks:
    ```bash
    git clone https://github.com/ankithar671/VRV_Security-s_Python_Intern_Assignment.git
    cd VRV_Security-s_Python_Intern_Assignment
+2.Ensure Python is installed on your system (version 3.7 or newer).
+3.Install necessary Python packages:
+   pip install matplotlib ipywidgets
